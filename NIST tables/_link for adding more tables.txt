@@ -1,0 +1,12 @@
+http://physics.nist.gov/PhysRefData/FFast/html/form.html
+
+If this link no longer works, a search of "NIST form factor tables" should work. There is no permalink available.
+
+When adding tables:
+select lowest and highest possible range 
+	(0.01 to 500 keV)
+
+copy-paste E and f', f'' to text file using the established naming convention:
+	'(Element) fp.txt'
+	'(Element) fpp.txt'
+where (Element) is the 1-2 letter symbol
